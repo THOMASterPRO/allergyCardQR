@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://THOMASterPRO.github.io/allergyCardQR",
+  "homepage": "https://thomasterpro.github.io/allergyCardQR/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
